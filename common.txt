@@ -4,3 +4,8 @@ domain:claude.ai
 domain:anthropic.com
 domain:perplexity.ai
 domain:2ip.ru
+domain:instagram.com
+domain:cdninstagram.com
+domain:fbcdn.net
+domain:2ip.ru
+geosite:instagram
