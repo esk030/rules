@@ -1,0 +1,13 @@
+domain:chatgpt.com
+domain:openai.com
+domain:api.openai.com
+domain:auth.openai.com
+domain:platform.openai.com
+domain:cdn.openai.com
+domain:oaistatic.com
+domain:oaiusercontent.com
+domain:claude.ai
+domain:anthropic.com
+domain:api.anthropic.com
+domain:console.anthropic.com
+domain:cdn.anthropic.com
