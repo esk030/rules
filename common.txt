@@ -1,0 +1,6 @@
+domain:chatgpt.com
+domain:openai.com
+domain:claude.ai
+domain:anthropic.com
+domain:perplexity.ai
+domain:2ip.ru
