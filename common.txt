@@ -9,3 +9,4 @@ domain:cdninstagram.com
 domain:fbcdn.net
 domain:2ip.ru
 geosite:instagram
+domain:rutracker.org
